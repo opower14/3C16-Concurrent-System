@@ -1,0 +1,1 @@
+int gA,gB,gD,gF,gH,gJ,gL,gM,gN,gQ,gR,gS,gU,gX,gY = 0;
